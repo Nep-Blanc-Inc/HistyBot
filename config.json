@@ -1,5 +1,15 @@
 {
-	"prefix": "histy",
-	"token": "NjgzMzU0NzIyNTAxMDAxMzU5.XqXTug.IFeitogT4KGvuEvWWLaKQWDtz8k",
-	"badwords": ["lewd", "sex", "shit", "ass", "daddy", "fuck", "poop", "dick", "lick", "vert", "neptune"]
+  "badwords": [
+    "lewd",
+    "sex",
+    "shit",
+    "ass",
+    "daddy",
+    "fuck",
+    "poop",
+    "dick",
+    "lick",
+    "vert",
+    "neptune"
+  ]
 }

@@ -4,12 +4,17 @@
   "description": "Histoire Bot",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "Edgeless",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.4.1",
-    "discord.js-commando": "^0.10.0"
+    "discord.js": "^14.3.0",
+    "discord.js-commando": "^0.12.3",
+    "dotenv": "^16.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
   }
 }
