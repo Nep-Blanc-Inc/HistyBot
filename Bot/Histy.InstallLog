@@ -1,0 +1,51 @@
+﻿Installing assembly 'C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.InstallLog
+   assemblypath = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe
+Rolling back assembly 'C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.InstallLog
+   assemblypath = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.InstallLog
+   assemblypath = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe
+Rolling back assembly 'C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.InstallLog
+   assemblypath = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.InstallLog
+   assemblypath = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe
+Rolling back assembly 'C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.InstallLog
+   assemblypath = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe
+Installing assembly 'C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.InstallLog
+   assemblypath = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe
+Installing assembly 'C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe
+   logfile = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.InstallLog
+Rolling back assembly 'C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.exe
+   logfile = C:\Users\Jullo\Pictures\Discord\Lowee\Histy Bot\Bot\Histy.InstallLog

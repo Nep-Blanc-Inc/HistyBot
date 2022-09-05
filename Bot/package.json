@@ -1,0 +1,15 @@
+{
+  "name": "Histy",
+  "version": "1.0.0",
+  "description": "Histoire Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edgeless",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "discord.js-commando": "^0.10.0"
+  }
+}
