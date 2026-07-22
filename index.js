@@ -273,6 +273,47 @@ bot.on("messageCreate", (message) => {
       );
       break;
 
+    //histy is a baka
+    case "histy is a baka":
+      message.channel.send("B-Baka! I am not a baka! >_<");
+      break;
+    case "histy is my waifu":
+      message.channel.send("H-hey! Don't say such things so loudly! :3");
+      break;
+    case "histy hug":
+      message.channel.send("I'll allow it... just this once! (´；ω；`) ");
+      break;
+
+    //histy is a tsundere
+    case "histy is a tsundere":
+      message.channel.send("I'm NOT a tsundere! Baka! >_<");
+      break;
+    case "histy is my best friend":
+      message.channel.send("I guess... if you really must say it! :3");
+      break;
+    case "histy is lazy":
+      message.channel.send("I'm not lazy, I'm just... conserving energy! (´；ω；`) ");
+      break;
+    
+    //histy is a naruto fan
+    case "dattebayo":
+      message.channel.send("Believe it!");
+      break;
+    case "is this a butterfly":
+      message.channel.send("Is this a pigeon?");
+      break;
+    case "emotional damage":
+      message.channel.send("EMOTIONAL DAMAGE! XD");
+      break;
+      
+    //histy is a jojo fan
+    case "yare yare daze":
+      message.channel.send("Good grief...");
+      break;
+    case "nani":
+      message.channel.send("NANI?!");
+      break;
+
     //castlevania uno run
     case "i dont have it i have the strongest whip known to man":
       message.channel.send(
